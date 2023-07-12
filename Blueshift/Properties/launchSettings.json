@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Blueshift": {
+      "commandName": "Project",
+      "commandLineArgs": "/sync"
+    }
+  }
+}

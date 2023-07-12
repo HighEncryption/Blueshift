@@ -1,0 +1,12 @@
+{
+  "AppId": "e1e07cdb-c97b-4031-a74e-1781e0677adf",
+  "SourceSections": "SourceUser1,SourceUser2",
+  "SourceUser1": {
+    "RootPath": "D:\\Backups\\OneDrive Backup\\user1@live.com",
+    "UserPrincipalName": "user1@live.com"
+  },
+  "SourceUser2": {
+    "RootPath": "D:\\Backups\\OneDrive Backup\\user2@gmail.com",
+    "UserPrincipalName": "user2@gmail.com"
+  }
+}

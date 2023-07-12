@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Blueshift.GraphTokenBroker": {
+      "commandName": "Project",
+      "commandLineArgs": "/getToken /path \"C:\\ProgramData\\Blueshift\\Default\\token.json\""
+    }
+  }
+}
